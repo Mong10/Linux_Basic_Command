@@ -1,0 +1,35 @@
+1.who
+2.whoami
+3.date
+4.cal
+5.pwd(path name working directory)
+6.cd Downloads(I am in now Downloads)
+7.cd ..(Bake to home)
+8.ls(will show all file or folder within the Desktop or Home)
+9.cd /(Go to Root directory)
+10.cd home/(back to home)
+11.cd mong/(Will show again like before)
+12.mkdir file_name(create a Folder)
+13.rmdir file_name(Remove  a Folder)
+14.touch file_name(Crate a file)
+15.rm -r file_name OR rm file_name(delete a file)
+16.touch file_name{1..10} (It will create 10 file in one time(together))
+17.mv file_name new_filename(Rename the file)
+18.mv file_name /home/mong/Desktop/folder_name (insert the file within folder)
+19.cat>file_name(I can write anything in the file_name,after writing,ctrl+d then ctrl+c)
+20.cat file_name(it will show whatever have thing in the file)
+21.cat file_name file1_name>newfile_name (insert the two file words within the new_file)
+22.cp file_name folder_name (copy the file into the folder)
+23.cp file_name folder_name/newfile_name (create the new_file within the folder)
+24.sort file_name(Sortinf in the file whatever have into the file)
+25.echo any_name
+25.x=10;
+   y=20;
+   echo $((x+)) 
+   output:30
+26.passwd (create the password)
+27.sudo shutdown -h now / sudo poweroff / sudo halt / sudo init 0 / sudo systemctl poweroff(shutdown the system)
+28.mkdir dir1 dir2 dir3 dir4 dir5(Create multiple directories at a time)
+29.touch index.html style.css script.js(Create multiple files at a time)
+30.ls -l(List down all the files and directories with all the details)
+31.ls -la(List down all the files and directories with all the details and hidden files)
